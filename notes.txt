@@ -1,5 +1,6 @@
 This is practice #2 for Git.
 Change made by branch A
-new2-B
+new2-A3
+
 
 
