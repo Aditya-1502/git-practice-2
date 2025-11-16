@@ -1,2 +1,3 @@
 This is practice #2 for Git.
 This is second update.
+Practice 2: feature branch update.
